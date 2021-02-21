@@ -17,7 +17,7 @@ Elabore um algoritmo para calcular o valor final de um produto com base em seu v
 
 Tabela de condição de pagamento
 
-	CodTipoPagamento		descrição da condição de pagamento
+	CodTipoPagamento				descrição da condição de pagamento
 	1						A vista no dinheiro com 10% de desconto
 	2						A vista no cartão de crédito  com 5% de desconto
 	3						Em duas parcelas sem nenhum desconto
