@@ -6,7 +6,7 @@ Elabore um algoritmo para calcular o valor final de um produto com base em seu v
  
  Tabela de produto
  
- CodigoProduto	descrição do Produto		Valor do Produto
+ 	CodigoProduto			descrição do Produto				Valor do Produto
 	1				Camisa						70.00
 	2				Shorts						57.50
 	3				Meia						9.99
