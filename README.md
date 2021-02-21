@@ -6,7 +6,7 @@ Elabore um algoritmo para calcular o valor final de um produto com base em seu v
  
  Tabela de produto
  
- 	CodigoProduto			descrição do Produto				Valor do Produto
+ 	CodigoProduto			Descrição do Produto				Valor do Produto
 	1				Camisa						70.00
 	2				Shorts						57.50
 	3				Meia						9.99
@@ -17,7 +17,7 @@ Elabore um algoritmo para calcular o valor final de um produto com base em seu v
 
 Tabela de condição de pagamento
 
-	CodTipoPagamento				descrição da condição de pagamento
+	CodTipoPagamento				Descrição da condição de pagamento
 	1						A vista no dinheiro com 10% de desconto
 	2						A vista no cartão de crédito  com 5% de desconto
 	3						Em duas parcelas sem nenhum desconto
