@@ -14,6 +14,9 @@ public class SimularValoresController {
 	public ResponseEntity<String> simularValores(@RequestParam(name="codigoProduto") int codigoProduto,
 			@RequestParam(name="codTipoPagamento") int codTipoPagamento) {
 		/*
+		 * Exemplo de chamada:
+		 * https://<URL-REPL-IT>/simular?codigoProduto=1&codTipoPagamento=2
+		 * 
 		 * Elabore um algoritmo para calcular o valor final de um produto com base em seu valor REAL
 		 *  e a condição de pagamento.
 		 *  
