@@ -28,5 +28,5 @@ A resposta do exercicio deve seguir o seguinte formato:
 
 <descrição do produto> sendo pago <descrição da condição de pagamento> custará <valor final do produto> reais
 
-Ex.: Camisa sendo pago A vista no dinheiro com 10% de desconto custará 63.00 reais
+Ex.: Camisa sendo pago A vista no dinheiro com 10% de desconto custará 63.0 reais
 
